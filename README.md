@@ -15,12 +15,14 @@
 
 ## 🏗️ About Me
 
-Transitioned from **Civil Engineering to Full-Stack Software Engineering**. I view software through the lens of structural systems: **fault tolerance, load management, modular architecture, and precise data schemas.**
+Transitioned from **Civil Engineering to Full-Stack Software Engineering**, bringing a structural engineering mindset to software: **fault tolerance, scalability, modular architecture, and data integrity.**
 
-- 🌐 **Architecture Focus:** Building resilient RESTful microservices and reactive, accessible UI applications.
-- 📐 **Engineering Mindset:** Applying structural precision and mathematical problem-solving to system design and database integrity.
-- 🚀 **Current Stack:** Express.js, Node.js, React, TypeScript, Tailwind CSS, and MongoDB.
-- ⚡ **Fun Fact:** Just as physical bridges require load-bearing calculations, web software requires scalable system boundaries and memory optimization.
+* 🌐 **Architecture Focus:** Building resilient RESTful APIs, modular backend systems, and responsive, accessible React applications.
+* 🏛️ **Architecture & Design:** Applying **MVC principles**, clean separation of concerns, and scalable system boundaries to application design.
+* 🖥️ **Rendering:** Experienced with **Server-Side Rendering (SSR) using Express.js & EJS** and **Client-Side Rendering (CSR) with React**.
+* 🚀 **Current Stack:** Node.js, Express.js, React, Tailwind CSS, and MongoDB.
+* 📐 **Engineering Mindset:** Applying structural precision and mathematical problem-solving to system design, database integrity, and performance optimization.
+* ⚡ **Fun Fact:** Just as physical bridges require careful load calculations and structural boundaries, software systems require thoughtful scalability, resource management, and well-defined architecture.
 
 ---
 
